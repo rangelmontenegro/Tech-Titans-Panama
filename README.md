@@ -78,4 +78,5 @@ Para el dron Delfin la camara tomara dos lecturas, la posición horizontal en X 
 
 Presentamos un diagrama de flujo de el programa del dron Delfin
 
+![image](https://github.com/rangelmontenegro/Tech-Titans-Panama/assets/153778200/ffb4bbf0-4096-4ff3-b99b-61840c3e7c71)
 
