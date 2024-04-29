@@ -71,4 +71,5 @@ Programación
 La programacion tuvo varias etapas, el arduino Mega se programo en Mind+ y luego sed paso a IDE de Arduino, se utilizo una camara HuskyLens, que tiene programas de IA, se utilizo el programa de seguimiento de objetos, la camara trabaja con un sistema de coordenadas horizontal y vertical , asi puede detectar el punto en que se encuentra el objeto.
 
 
+![huskilens](https://github.com/rangelmontenegro/Tech-Titans-Panama/assets/153778200/0a3fa448-d48e-4702-a388-7549f70c5b46)
 
