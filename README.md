@@ -66,4 +66,9 @@ Vista de sistema electrónico
 ![IMG_20231216_092752](https://github.com/techtitanspanama/Tech-Titans-Panama/assets/160556403/610efba8-92bc-459f-b092-48f9d8f58bda)
 
 
+Programación
+
+La programacion tuvo varias etapas, el arduino Mega se programo en Mind+ y luego sed paso a IDE de Arduino, se utilizo una camara HuskyLens, que tiene programas de IA, se utilizo el programa de seguimiento de objetos, la camara trabaja con un sistema de coordenadas horizontal y vertical , asi puede detectar el punto en que se encuentra el objeto.
+
+
 
