@@ -73,3 +73,9 @@ La programacion tuvo varias etapas, el arduino Mega se programo en Mind+ y luego
 
 ![huskilens](https://github.com/rangelmontenegro/Tech-Titans-Panama/assets/153778200/0a3fa448-d48e-4702-a388-7549f70c5b46)
 
+
+Para el dron Delfin la camara tomara dos lecturas, la posición horizontal en X del objeto y la altura del objeto, la posicion en X nos dira si el objeto esta a la derecha o a la izquierda y la altura dara la distancia, si el objeto tiene poca altura , la distancia es mayor, si el objeto tiene una altura mayor, la distancia es corta.
+
+Presentamos un diagrama de flujo de el programa del dron Delfin
+
+
